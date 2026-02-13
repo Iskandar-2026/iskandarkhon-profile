@@ -9,6 +9,7 @@ export const navigation = [
   { name: 'Services', href: '/services', current: false },
   { name: 'Resume', href: '/resume', current: false },
   { name: 'Experiences', href: '/experiences', current: false },
+  { name: 'Contact', href: '/contact', current: false },
 ]
 
 export function NavProvider({ children }: any) {

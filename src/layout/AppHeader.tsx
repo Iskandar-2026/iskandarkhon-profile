@@ -75,7 +75,7 @@ export default function AppHeader() {
               Contact Me
             </IconButton> */}
             <Button color="primary" variant="plain" size="lg" sx={{"--Button-size": "64px" }} startDecorator={<FavoriteBorder />}>
-              <span className="text-2xl font-bold">Contact Me</span>
+              <span className="text-2xl font-bold">Hire Me</span>
             </Button>
           </div>
         </div>     
@@ -121,7 +121,7 @@ export default function AppHeader() {
                   </a>
                 ))}
                 <Button color="primary" variant="plain" size="lg" sx={{"--Button-size": "64px" }} startDecorator={<FavoriteBorder />}>
-                  <span className="text-2xl font-bold">Contact Me</span>
+                  <span className="text-2xl font-bold">Hire Me</span>
                 </Button>
               </div>
             </div>
